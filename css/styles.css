@@ -1,0 +1,51 @@
+body{
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    
+
+}
+
+h1{
+    font-size: 90px;
+    width: 10%;
+    margin: 0 auto 0 auto;
+    font-family: 'Sacramento', cursive;
+}
+
+.top-container{
+    background-color: #CFF5E7;
+    padding-top: 100px;
+      
+    
+    
+}
+
+.middle-container{
+    padding: 50px;
+    
+    
+}
+
+.bottom-container{
+    
+}
+
+.code-img{
+    height: 200px;
+    width: 200px;
+}
+.basketball-player{
+    height: 200px;
+    width: 200px;
+}
+
+
+.bottom-cloud{
+    position: absolute;
+    left: 500px;
+}
+.top-cloud{
+    position: relative;
+    left: 300px;
+}
+
